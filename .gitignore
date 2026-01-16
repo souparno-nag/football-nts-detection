@@ -209,3 +209,6 @@ __marimo__/
 
 # assets
 assets/
+
+# models
+yolov8n.pt
